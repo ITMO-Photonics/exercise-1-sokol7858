@@ -1,1 +1,3 @@
-### Create a python code which prints "Hello!" to the screen
+### -----------------------------------------------------------------------
+### Exercise-1: Create a Python 3 code which outputs "Hello!" to the screen
+### -----------------------------------------------------------------------
